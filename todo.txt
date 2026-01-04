@@ -1,0 +1,39 @@
+side rooms
+
+rain
+ambient sounds
+
+QUIET: stop moving or it kills you
+
+YOU: if the door to the next room is already open, a doppelganger is in there
+turn around and leave or something like that, or he will kill you
+
+save points (prior door starts closed, move wall of doom properly)
+
+opening mascot "This hallway is pretty distressful. Maybe you should try to get to the end so you can leave. Trying to leave from the sides is no good, there's bad stuff out there I think."
+
+something that plays a music box
+
+require line of sight for HURRY
+hurry is too annoying
+
+SIDE, covers half side of the map like doom wall
+
+look is too hard at high levels, reverse his rule. look at him and he moves to the doorway
+dont spawn follow at same time as fast?
+
+JUMP slides along the ground, jump to avoid being killed by it.
+
+paintings
+
+dont let fast catch you from beyond current view distance
+
+upon pressing R while starting in room 1010, wall of doom does not move itself behind you, stays where it was
+
+wall of doom sfx does not seem to play sometimes? I restarted several times until starting in an outdoors room, had Hurry spawn a couple of times, and when the wall reached me there was no sound
+
+if you fall from too far, bone snap sound, walking speed permanently drops to 0.5, hear your bones breaking
+
+trampoline to replace crate sometimes?
+
+SHINE, sometimes outdoors looks like daytime, which is a warning it is there
