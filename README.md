@@ -6,4 +6,4 @@ For the game to work, first install python and from cmd do this:
 
 Controls: WASD, space to jump, shift to crouch, click to interact, esc to pause
 
-A lot of stuff is incomplete, see todo.txt for future plans.
+A lot of stuff is incomplete, see todo.txt for future ideas/plans.
